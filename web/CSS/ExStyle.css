@@ -1,0 +1,11 @@
+.Contenedor{
+    background-color: #f9e4b7;
+}
+header{
+    background-color: #45322E; 
+    height:200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 0;
+}
+
